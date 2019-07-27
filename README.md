@@ -1,4 +1,10 @@
-# Taipei_zoo
+
 # FirebaseDemo
-# FirebaseDemo
-# FirebaseDemo
+
+
+
+
+本章實做重點：
+
+（１）參考ａｐｐｃｏｎｄａ進階書　來串接和開發自己後台！！　
+（２）串接Ｆａｃｅｂｏｏｋ，　Ｇｏｏｇｌｅ　來登入自己的後台！
